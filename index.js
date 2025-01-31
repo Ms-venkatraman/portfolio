@@ -1,6 +1,3 @@
-console.log("venkat");
-var name="venkat-Raman"
-console.log(name);
 var se=document.querySelector(".Service");
 var sub=document.querySelector(".sub-services");
 console.log("any")
