@@ -392,7 +392,7 @@ footer>p:hover{
  color: black;
  text-shadow: grey 3px 4px 3px;
 }
-@media screen and (max-width:600px) {
+@media screen and (max-width:800px) {
 	.sec1{
 		width: 100%;
 	}
