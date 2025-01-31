@@ -394,7 +394,7 @@ footer>p:hover{
 }
 @media screen and (max-width:800px) {
 	.sec1{
-		width: 100%;
+		width: 90%;
 	}
 	.sec2{
 		z-index: -1;
@@ -402,7 +402,7 @@ footer>p:hover{
 		place-items:center;
 		background-color: black;
 		color: orange;
-		width: 100%;
+		width: 90%;
 	}
 	.sec2>h2{
 		font-size:var(--font) ;
@@ -505,7 +505,7 @@ footer>p:hover{
 		margin: 7px;	
 	 }
 	 .sec1-content>.mydetail{
-		width: 37%;
+		width: 34%;
 		margin: 15px 30px 0px;
 		font-size: 18px;
 		font-weight: 400;
@@ -515,8 +515,8 @@ footer>p:hover{
 	.img{
 		left:40vw;
 		top: 180px;
-		width: 40%;
-		height:90%;
+		width: 30%;
+		height:80%;
 		}
 		form{
 			margin: 20px;
@@ -558,7 +558,7 @@ footer>p:hover{
 			background: whitesmoke;
 		}
 		.sec4{
-			width: 100%;
+			width: 90%;
 		}
 		.contact>li{
 			left: 50px;
