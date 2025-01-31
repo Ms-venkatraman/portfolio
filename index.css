@@ -1,7 +1,6 @@
 *{
-	padding: 0px;
-	margin: 0px;
-	box-sizing: content-box;
+	padding: none;
+	margin: none;
 	cursor: context-menu;
 	user-select: none;
 }
